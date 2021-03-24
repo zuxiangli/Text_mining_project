@@ -1,0 +1,9 @@
+Text classification is an important part of Natural Language Processing(NLP). Various
+models, including traditional machine learning methods and new deep learning methods, have
+been discovered to help people speed up development in NLP both in research and industry.
+In this report, such models were applied to music’s genre classification based on lyrics and
+generate prediction results. We analyze performance based on accuracy, model complexity,
+fitting time. The result showed randomforest had the best performance in accuracy, around
+63%, but not in fitting time and model complexity, SVM balanced accuracy, and fitting time.
+Deep learning methods didn’t reach an expected outcome, accuracy reached around 50%. The
+analysis has its limitation due to limited computational power and time.
